@@ -1,0 +1,30 @@
+
+#portugues {
+    background:#361c34;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.hbtn {
+    opacity: 0;
+}
+
+img{
+height: 100%;
+width: 100%;
+}
